@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: messaging-receiver
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rohabhos
+Implementation-Vendor-Id: com.capgemini.messaging
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/messaging-receiver
+Created-By: Maven Integration for Eclipse
+
